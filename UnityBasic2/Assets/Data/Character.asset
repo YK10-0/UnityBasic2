@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c222effc85e6524397fe27396744391, type: 3}
+  m_Name: Character
+  m_EditorClassIdentifier: 
+  SheetName: Assets/Data/Data.xlsx
+  WorksheetName: Character
+  dataArray:
+  - id: 10101
+    name: "\uBCA4\uB9AC\uC544\uB098"
+    title: "\uAE30\uC0AC"
+    image: 02_default
+    description: "\uBCA4\uB9AC\uC544\uB098_\uAE30\uBCF8_\uD45C\uC815"
+  - id: 10102
+    name: "\uBCA4\uB9AC\uC544\uB098"
+    title: "\uAE30\uC0AC"
+    image: 03_surprise
+    description: "\uBCA4\uB9AC\uC544\uB098_\uB180\uB780_\uD45C\uC815"
+  - id: 10103
+    name: "\uBCA4\uB9AC\uC544\uB098"
+    title: "\uAE30\uC0AC"
+    image: 04_smile
+    description: "\uBCA4\uB9AC\uC544\uB098_\uC6C3\uB294_\uD45C\uC815"

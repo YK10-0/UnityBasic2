@@ -23,10 +23,12 @@ MonoBehaviour:
     isEnable: 0
     isArray: 0
   - type: 1
-    name: Name_S
+    name: Name
     isEnable: 0
     isArray: 0
   excelFilePath: Assets/Data/Data.xlsx
   SheetNames:
   - Test
+  - Dialogue
+  - Character
   currentSelectedSheet: 0

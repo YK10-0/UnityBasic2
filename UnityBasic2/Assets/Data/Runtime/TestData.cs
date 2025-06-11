@@ -13,7 +13,7 @@ public class TestData
   public int ID_I { get {return id_i; } set { this.id_i = value;} }
   
   [SerializeField]
-  string name_s;
-  public string Name_S { get {return name_s; } set { this.name_s = value;} }
+  string name;
+  public string Name { get {return name; } set { this.name = value;} }
   
 }
